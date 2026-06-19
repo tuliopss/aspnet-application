@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departments\\Index.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Departments\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T13:25:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T13:03:05.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

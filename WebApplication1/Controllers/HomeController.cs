@@ -20,6 +20,8 @@ namespace WebApplication1.Controllers
 
         public IActionResult Privacy()
         {
+            ViewData["melman"] = "rimunis";
+
             return View();
         }
 
