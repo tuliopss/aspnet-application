@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departments\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departments\\Index.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Departments\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-19T13:25:21.732Z",
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T12:47:58.401Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
               "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-19T13:03:05.918Z",
               "EditorCaption": ""
