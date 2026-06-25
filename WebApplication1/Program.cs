@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using System.Configuration;
 using WebApplication1.Data;
+using WebApplication1.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<WebApplication1Context>(options =>
@@ -14,6 +15,8 @@ builder.Services.AddDbContext<WebApplication1Context>(options =>
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<SeedingService>();
+builder.Services.AddScoped<SellerService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
