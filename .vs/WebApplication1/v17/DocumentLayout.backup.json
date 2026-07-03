@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,8 +23,20 @@
       "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\models\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,24 +66,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-03T14:28:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConcurrencyException.cs",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:11:50.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:02:51.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Details.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Details.cshtml",
               "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Details.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-03T13:14:20.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:14:20.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Delete.cshtml",
@@ -79,12 +129,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Delete.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T14:20:40.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T14:20:40.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SellerFormViewModel.cs",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Models\\SellerFormViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\SellerFormViewModel.cs",
@@ -96,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\DepartmentService.cs",
@@ -108,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "20260625193559_DepartmentsFK.cs",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260625193559_DepartmentsFK.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260625193559_DepartmentsFK.cs",
@@ -120,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Seller.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Seller.cs",
@@ -132,15 +181,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Create.cshtml",
               "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Create.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-25T18:59:03.779Z"
+              "WhenOpened": "2026-06-25T18:59:03.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,24 +202,25 @@
               "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-25T16:40:34.665Z"
+              "WhenOpened": "2026-06-25T16:40:34.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SellersController.cs",
-              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SellersController.cs*",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SellersController.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwDYAAAApAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SellersController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T16:38:53.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -187,9 +238,10 @@
               "RelativeDocumentMoniker": "WebApplication1\\Services\\SellerService.cs",
               "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\SellerService.cs",
               "RelativeToolTip": "WebApplication1\\Services\\SellerService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T14:46:44.081Z"
+              "WhenOpened": "2026-06-25T14:46:44.081Z",
+              "EditorCaption": ""
             }
           ]
         }
