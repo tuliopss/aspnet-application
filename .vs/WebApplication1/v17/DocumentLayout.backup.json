@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\tuliosantos\\source\\repos\\webapplication1\\webapplication1\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0227A795-59FD-4CCE-B9B1-4EB4AB31EB0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,28 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SalesRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T19:39:25.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T19:37:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\SalesRecordService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\SalesRecordService.cs",
+              "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Services\\SalesRecordService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\SalesRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T19:30:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GroupingSearch.cshtml",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
               "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-07T19:19:43.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SimpleSearch.cshtml",
               "DocumentMoniker": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
               "ToolTip": "C:\\Users\\tuliosantos\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-07T19:18:57.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T19:18:57.653Z"
             }
           ]
         }
