@@ -1,4 +1,5 @@
-﻿using WebApplication1.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using WebApplication1.Data;
 using WebApplication1.Models;
 
 namespace WebApplication1.Services {
@@ -9,8 +10,8 @@ namespace WebApplication1.Services {
             _context = context;
         }
 
-        public List<Department> FindAll() {
-            return _context.Department.OrderBy(d => d.Name).ToList();
+       async public Task <List<Department>> FindAllAsync() {
+           return await _context.Department.OrderBy(d => d.Name).ToListAsync();
         }
     }
 }
