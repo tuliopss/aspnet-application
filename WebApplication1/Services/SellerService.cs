@@ -2,6 +2,7 @@
 using System.Runtime.Remoting;
 using WebApplication1.Data;
 using WebApplication1.Models;
+using WebApplication1.Services.Exceptions;
 
 namespace WebApplication1.Services {
     public class SellerService {
@@ -26,9 +27,15 @@ namespace WebApplication1.Services {
         }
 
         public async Task RemoveAsync(int id) {
-            var obj = await _context.Seller.FindAsync(id);
-            _context.Seller.Remove(obj);
-           await _context.SaveChangesAsync(); 
+            try {
+                var obj = await _context.Seller.FindAsync(id);
+                _context.Seller.Remove(obj);
+                await _context.SaveChangesAsync();
+
+            }
+            catch (DbUpdateException e) {
+                throw new IntegrityException("This seller has sales");
+            }
         }
 
         public async Task UpdateAsync(Seller obj) {

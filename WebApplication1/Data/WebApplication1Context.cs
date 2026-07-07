@@ -14,6 +14,13 @@ namespace WebApplication1.Data
         {
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder) {
+            modelBuilder.Entity<Seller>()
+                .HasMany(s => s.Sales)
+                .WithOne(s => s.Seller)
+                .OnDelete(DeleteBehavior.Restrict);
+        }
+
         public DbSet<Department> Department { get; set; } = default!;
         public DbSet<Seller> Seller { get; set; } = default!;
         public DbSet<SalesRecord> SalesRecord { get; set; } = default!;
